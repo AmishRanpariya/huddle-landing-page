@@ -2,7 +2,6 @@
 
 <a href="#">
 <img  width="100%" src="./design/desktop-design.jpg" alt="Design preview for the Huddle landing page with alternating feature blocks coding challenge" />
-<img  width="100%" src="./design/mobile-design.jpg" alt="Design preview for the Huddle landing page with alternating feature blocks coding challenge" />
 </a>
 
 
