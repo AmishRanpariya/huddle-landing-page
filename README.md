@@ -1,7 +1,7 @@
 # Huddle landing page with alternating feature blocks
 
-<a href="#">
-<img  width="100%" src="./design/desktop-design.jpg" alt="Design preview for the Huddle landing page with alternating feature blocks coding challenge" />
+<a href="https://amishranpariya.github.io/huddle-landing-page/">
+<img  width="100%" src="./design/desktop-preview.jpg" alt="Design preview for the Huddle landing page with alternating feature blocks coding challenge" />
 </a>
 
 
